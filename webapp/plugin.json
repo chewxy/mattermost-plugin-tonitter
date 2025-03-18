@@ -1,0 +1,10 @@
+{
+  "id": "com.mattermost.tonitter",
+  "name": "A better domain name for x.com links",
+  "version": "1.0.0",
+  "min_server_version": "5.12.0",
+  "description": "replace x.com links with xcancel.com links",
+  "webapp": {
+    "bundle_path": "main.js"
+  }
+}
