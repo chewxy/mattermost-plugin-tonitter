@@ -13,4 +13,4 @@ A mattermost plugin for replacing links to x.com with links to xcancel.com
 7. Copy the manifest file (plugin.json) - `cp plugin.json com.mattermost.tonitter`
 8. Tar it up - `tar -czvf plugin.tar.gz com.mattermost.tonitter`
 
-
+Refer to https://developers.mattermost.com/integrate/plugins/components/webapp/hello-world/ for more info
